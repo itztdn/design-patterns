@@ -1,0 +1,13 @@
+{
+  "name": "itztdn/design-patterns",
+  "description": "A comprehensive, dual-language (EN/RU) guide to software design patterns implemented in modern PHP 8.2+",
+  "type": "project",
+  "require": {
+    "php": "^8.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
