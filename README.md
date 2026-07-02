@@ -21,6 +21,7 @@
 | Category / Категория         | Pattern / Паттерн                              | Path to example / Путь к example.php                    |
 | ---------------------------- | ---------------------------------------------- | ------------------------------------------------------- |
 | [Creational](src/Creational) | [Factory Method](src/Creational/FactoryMethod) | [example.php](src/Creational/FactoryMethod/example.php) |
+| [Behavioral](src/Behavioral) | [Strategy](src/Behavioral/Strategy)            | [example.php](src/Behavioral/Strategy/example.php)      |
 
 ---
 
