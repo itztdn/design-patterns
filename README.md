@@ -22,6 +22,7 @@
 | ---------------------------- | ---------------------------------------------- | ------------------------------------------------------- |
 | [Creational](src/Creational) | [Factory Method](src/Creational/FactoryMethod) | [example.php](src/Creational/FactoryMethod/example.php) |
 | [Creational](src/Creational) | [Singleton](src/Creational/Singleton)          | [example.php](src/Creational/Singleton/example.php)     |
+| [Creational](src/Creational) | [Builder](src/Creational/Builder)              | [example.php](src/Creational/Builder/example.php)       |
 | [Behavioral](src/Behavioral) | [Strategy](src/Behavioral/Strategy)            | [example.php](src/Behavioral/Strategy/example.php)      |
 | [Behavioral](src/Behavioral) | [Observer](src/Behavioral/Observer)            | [example.php](src/Behavioral/Observer/example.php)      |
 
