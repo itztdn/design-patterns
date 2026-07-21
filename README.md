@@ -25,6 +25,7 @@
 | [Creational](src/Creational) | [Builder](src/Creational/Builder)              | [example.php](src/Creational/Builder/example.php)       |
 | [Behavioral](src/Behavioral) | [Strategy](src/Behavioral/Strategy)            | [example.php](src/Behavioral/Strategy/example.php)      |
 | [Behavioral](src/Behavioral) | [Observer](src/Behavioral/Observer)            | [example.php](src/Behavioral/Observer/example.php)      |
+| [Structural](src/Structural) | [Adapter](src/Structural/Adapter)              | [example.php](src/Structural/Adapter/example.php)       |
 
 ---
 
