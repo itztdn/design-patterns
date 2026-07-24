@@ -27,6 +27,7 @@
 | [Behavioral](src/Behavioral) | [Observer](src/Behavioral/Observer)            | [example.php](src/Behavioral/Observer/example.php)      |
 | [Structural](src/Structural) | [Adapter](src/Structural/Adapter)              | [example.php](src/Structural/Adapter/example.php)       |
 | [Structural](src/Structural) | [Decorator](src/Structural/Decorator)          | [example.php](src/Structural/Decorator/example.php)     |
+| [Structural](src/Structural) | [Facade](src/Structural/Facade)                | [example.php](src/Structural/Facade/example.php)        |
 
 ---
 
