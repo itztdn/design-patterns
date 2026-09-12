@@ -30,6 +30,7 @@
 | [Behavioral](src/Behavioral) | [State](src/Behavioral/State)                  | [example.php](src/Behavioral/State/example.php)         |
 | [Behavioral](src/Behavioral) | [Template Method](src/Behavioral/TemplateMethod) | [example.php](src/Behavioral/TemplateMethod/example.php) |
 | [Structural](src/Structural) | [Adapter](src/Structural/Adapter)              | [example.php](src/Structural/Adapter/example.php)       |
+| [Structural](src/Structural) | [Composite](src/Structural/Composite)          | [example.php](src/Structural/Composite/example.php)     |
 | [Structural](src/Structural) | [Decorator](src/Structural/Decorator)          | [example.php](src/Structural/Decorator/example.php)     |
 | [Structural](src/Structural) | [Facade](src/Structural/Facade)                | [example.php](src/Structural/Facade/example.php)        |
 | [Structural](src/Structural) | [Proxy](src/Structural/Proxy)                  | [example.php](src/Structural/Proxy/example.php)         |
