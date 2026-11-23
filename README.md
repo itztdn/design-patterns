@@ -29,6 +29,7 @@
 | [Behavioral](src/Behavioral) | [Command](src/Behavioral/Command)              | [example.php](src/Behavioral/Command/example.php)       |
 | [Behavioral](src/Behavioral) | [State](src/Behavioral/State)                  | [example.php](src/Behavioral/State/example.php)         |
 | [Behavioral](src/Behavioral) | [Template Method](src/Behavioral/TemplateMethod) | [example.php](src/Behavioral/TemplateMethod/example.php) |
+| [Behavioral](src/Behavioral) | [Chain of Responsibility](src/Behavioral/ChainOfResponsibility) | [example.php](src/Behavioral/ChainOfResponsibility/example.php) |
 | [Structural](src/Structural) | [Adapter](src/Structural/Adapter)              | [example.php](src/Structural/Adapter/example.php)       |
 | [Structural](src/Structural) | [Composite](src/Structural/Composite)          | [example.php](src/Structural/Composite/example.php)     |
 | [Structural](src/Structural) | [Decorator](src/Structural/Decorator)          | [example.php](src/Structural/Decorator/example.php)     |
